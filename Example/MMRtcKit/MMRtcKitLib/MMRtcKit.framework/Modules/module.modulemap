@@ -1,0 +1,6 @@
+framework module MMRtcKit {
+  umbrella header "MMRtcKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
